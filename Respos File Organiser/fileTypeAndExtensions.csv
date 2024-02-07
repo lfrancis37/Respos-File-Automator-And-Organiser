@@ -1,0 +1,11 @@
+Text Documents,pdf,doc,docx,txt,rtf,odt,wpd,md,latex,log,tex,odp
+Images,jpg,jpeg,png,gif,bmp,tiff,webp,svg,ico,eps,raw,indd,ai,psd
+Video,mp4,avi,mkv,mov,wmv,flv,mpeg,3gp,ogv,m4v,rm,asf,webm,vob
+Audio,mp3,wav,flac,m4a,ogg,wma,aac,mid,amr,opus,mka,mp2,ra
+Spreadsheets,xls,xlsx,csv,ods,xlr,xml,xlt,numbers,gnumeric,xltx
+Presentations,ppt,pptx,key,odp,pdf,sxi,pps,otp,ppsx,odp,pdf
+Packages,zip,rar,7z,tar,gz,deb,pkg,dmg,iso,tgz,msi,zipx
+Executables,exe,app,msi,deb,sh,bat,com,run,jar,appimage
+Web,html,css,js,php,xml,asp,jsx,ts,json,yaml,scss
+
+
